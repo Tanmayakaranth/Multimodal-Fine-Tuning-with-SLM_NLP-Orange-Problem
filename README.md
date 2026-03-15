@@ -1,4 +1,3 @@
-# Multimodal-Fine-Tuning-with-SLM_NLP-Orange-Problem
 
 # Multimodal SLM Fine-Tuning: ChartQA with MatCha
 
